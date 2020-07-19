@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://placekitten.com/g/300/300" align="right"  width="300vw"/>
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
 
 - 🔭 I’m currently working on ...
