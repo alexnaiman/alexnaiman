@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://placekitten.com/g/200/200" align="right"  width="200vw"/>
+<img src="https://placekitten.com/g/300/300" align="right"  width="300vw"/>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
