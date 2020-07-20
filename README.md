@@ -1,7 +1,13 @@
-### Hi there 👋
+## <img src="/resources/welcomeglitch.gif" width="50px" /> Hello!
+
+<p align="left" >
+  <samp>
+  My name is Alex. I am a Fullstack 'n' mobile developer... 
+  <br/> Javascript enthusiast... ReactJs lover. React Native addict. <br/> (<em>ex</em>)Fulltime student.
+  </samp>
+</p>
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
