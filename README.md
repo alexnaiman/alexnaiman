@@ -34,5 +34,12 @@ continuously learning, wanting to help the community
 ### <img src="/resources/question.png" width="50px" />  Ask me about ...
 - <img src="/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help 
 ### <img src="/resources/bongocat.gif" width="50px" /> How to reach me: ...
-### 😄 Pronouns: ...
-### ⚡ Fun fact: ...
+
+<!--![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true" />
+</a>
