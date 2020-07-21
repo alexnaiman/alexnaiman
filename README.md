@@ -42,3 +42,6 @@ continuously learning, wanting to help the community
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true" />
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
