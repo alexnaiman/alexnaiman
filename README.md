@@ -35,13 +35,6 @@ continuously learning, wanting to help the community
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 
-<!--![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true" />
-
 
 <!--START_SECTION:waka-->
 ```text
@@ -54,3 +47,8 @@ Groovy      49 mins             █░░░░░░░░░░░░░░░
 XML         48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 <!--END_SECTION:waka-->
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true" />
