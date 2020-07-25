@@ -77,7 +77,7 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 July, 2020 - 23 July, 2020
+Week: 17 July, 2020 - 24 July, 2020
 
 JavaScript   8 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   35.57 % 
 TypeScript   6 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   27.91 % 
