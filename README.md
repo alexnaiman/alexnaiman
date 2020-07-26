@@ -77,13 +77,13 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 July, 2020 - 24 July, 2020
+Week: 18 July, 2020 - 25 July, 2020
 
-JavaScript   8 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   35.57 % 
-TypeScript   6 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-JSON         3 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Other        1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Markdown     1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+JavaScript   12 hrs 43 mins  ████████████░░░░░░░░░░░░░   47.62 % 
+TypeScript   7 hrs           ██████░░░░░░░░░░░░░░░░░░░   26.24 % 
+JSON         3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Other        2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Markdown     52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 <!--END_SECTION:waka-->
 
