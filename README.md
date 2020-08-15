@@ -77,7 +77,7 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2020 - 13 August, 2020
+Week: 07 August, 2020 - 14 August, 2020
 
 JavaScript   9 hrs 53 mins   ██████████████████░░░░░░░   74.31 % 
 JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
