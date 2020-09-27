@@ -77,7 +77,7 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2020 - 25 September, 2020
+Week: 19 September, 2020 - 26 September, 2020
 
 JavaScript   7 hrs 11 mins   ██████████████████████▒░░   88.70 % 
 TypeScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
