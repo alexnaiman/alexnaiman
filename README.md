@@ -77,13 +77,13 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 September, 2020 - 03 October, 2020
+Week: 27 September, 2020 - 04 October, 2020
 
-JavaScript    4 hrs 2 mins    █████████████████▓░░░░░░░   71.07 % 
-Markdown      39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-JSON          34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Other         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Objective-C   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+JavaScript   4 hrs 3 mins    █████████████▒░░░░░░░░░░░   53.86 % 
+TypeScript   1 hr 35 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.16 % 
+Markdown     44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+JSON         37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Other        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 <!--END_SECTION:waka-->
 
