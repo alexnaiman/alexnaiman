@@ -77,7 +77,7 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2020 - 09 October, 2020
+Week: 03 October, 2020 - 10 October, 2020
 
 TypeScript   2 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   28.80 % 
 JavaScript   2 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.70 % 
