@@ -77,7 +77,7 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 November, 2020 - 15 November, 2020
+Week: 09 November, 2020 - 16 November, 2020
 
 JavaScript   2 hrs 47 mins   ███████████▓░░░░░░░░░░░░░   47.14 % 
 JSON         1 hr 29 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.02 % 
