@@ -77,13 +77,13 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2021 - 18 January, 2021
+Week: 12 January, 2021 - 19 January, 2021
 
-JavaScript   7 hrs 20 mins   ███████████████████▓░░░░░   78.95 % 
-Bash         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Rust         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-JSON         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+JavaScript   5 hrs 15 mins   ██████████████████▒░░░░░░   73.58 % 
+Bash         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Rust         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+JSON         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+TOML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
 <!--END_SECTION:waka-->
 
