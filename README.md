@@ -77,7 +77,7 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2021 - 17 February, 2021
+Week: 11 February, 2021 - 18 February, 2021
 
 JavaScript   5 hrs 39 mins   █████████████████████▓░░░   86.44 % 
 JSON         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
