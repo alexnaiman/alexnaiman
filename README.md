@@ -77,7 +77,7 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 March, 2021 - 20 March, 2021
+Week: 14 March, 2021 - 21 March, 2021
 
 JavaScript   13 hrs 47 mins  ██████████████████████░░░   88.35 % 
 JSON         1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
