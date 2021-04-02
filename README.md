@@ -77,11 +77,11 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 March, 2021 - 31 March, 2021
+Week: 25 March, 2021 - 01 April, 2021
 
-JavaScript   16 hrs 53 mins  ████████████████████████▒   97.87 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+JavaScript   12 hrs 17 mins  ████████████████████████▓   98.72 % 
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
