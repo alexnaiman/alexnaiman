@@ -77,11 +77,13 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 April, 2021 - 27 April, 2021
+Week: 21 April, 2021 - 28 April, 2021
 
-JavaScript   19 hrs 49 mins  ████████████████████████░   96.46 % 
-Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JavaScript   26 hrs 30 mins  ████████████████████████▒   96.97 % 
+JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+XML          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Groovy       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 <!--END_SECTION:waka-->
 
