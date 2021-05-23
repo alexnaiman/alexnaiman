@@ -77,7 +77,7 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 May, 2021 - 21 May, 2021
+Week: 15 May, 2021 - 22 May, 2021
 
 JavaScript    16 hrs 30 mins  ████████████████████████░   95.89 % 
 JSON          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
