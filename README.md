@@ -77,7 +77,7 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 June, 2021 - 11 June, 2021
+Week: 05 June, 2021 - 12 June, 2021
 
 JavaScript   10 hrs 6 mins   ██████████████████▒░░░░░░   72.71 % 
 YAML         1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
