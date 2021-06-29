@@ -77,13 +77,13 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 June, 2021 - 27 June, 2021
+Week: 22 June, 2021 - 28 June, 2021
 
-JavaScript   14 hrs 49 mins  ██████████████████████▒░░   89.27 % 
-JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Bash         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Groovy       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JavaScript   13 hrs 14 mins  ██████████████████████░░░   88.19 % 
+JSON         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Bash         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Groovy       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 <!--END_SECTION:waka-->
 
