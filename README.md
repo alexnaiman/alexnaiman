@@ -77,13 +77,13 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 July, 2021 - 12 July, 2021
+Week: 07 July, 2021 - 13 July, 2021
 
-JavaScript    13 hrs 58 mins  ██████████████████████░░░   87.91 % 
-Objective-C   47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-XML           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Java          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-JSON          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+JavaScript   19 hrs 32 mins  ███████████████████████▒░   93.81 % 
+JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Java         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Groovy       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
 
