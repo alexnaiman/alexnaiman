@@ -77,13 +77,13 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 July, 2021 - 31 July, 2021
+Week: 26 July, 2021 - 01 August, 2021
 
-JavaScript   6 hrs 44 mins   ████████████████████▒░░░░   81.32 % 
-Java         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-TypeScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-XML          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Diff         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+JavaScript   7 hrs 23 mins   ████████████████████▓░░░░   82.68 % 
+Java         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+TypeScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+XML          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Diff         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 <!--END_SECTION:waka-->
 
