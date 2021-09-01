@@ -77,11 +77,12 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 August, 2021 - 30 August, 2021
+Week: 25 August, 2021 - 31 August, 2021
 
-JavaScript   6 hrs 35 mins   ███████████████████████▒░   93.99 % 
-Groovy       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+JavaScript   6 hrs 58 mins   ███████████████████████░░   92.08 % 
+Groovy       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 
