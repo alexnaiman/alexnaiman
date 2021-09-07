@@ -77,7 +77,7 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 August, 2021 - 05 September, 2021
+Week: 31 August, 2021 - 06 September, 2021
 
 JavaScript   4 hrs 11 mins   █████████████████████░░░░   84.56 % 
 JSON         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
