@@ -77,12 +77,13 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2021 - 12 September, 2021
+Week: 07 September, 2021 - 13 September, 2021
 
-JavaScript   6 hrs 50 mins   ████████████████████████░   95.41 % 
-Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Java         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+JavaScript   8 hrs 8 mins    ███████████████████████▓░   95.17 % 
+TypeScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Java         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 <!--END_SECTION:waka-->
 
