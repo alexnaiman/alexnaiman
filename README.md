@@ -77,7 +77,7 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 September, 2021 - 02 October, 2021
+Week: 27 September, 2021 - 03 October, 2021
 
 JavaScript   11 hrs 22 mins  ████████████░░░░░░░░░░░░░   48.21 % 
 Java         3 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 % 
