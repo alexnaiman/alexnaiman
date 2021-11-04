@@ -77,13 +77,13 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 October, 2021 - 02 November, 2021
+Week: 28 October, 2021 - 03 November, 2021
 
-JavaScript   14 hrs 14 mins  ███████████████▒░░░░░░░░░   61.17 % 
-JSON         3 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Groovy       2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Java         1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-XML          42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+JavaScript   11 hrs 56 mins  ████████████████▓░░░░░░░░   66.80 % 
+Groovy       1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+JSON         1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Java         1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+TypeScript   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 <!--END_SECTION:waka-->
 
