@@ -77,7 +77,7 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 November, 2021 - 20 November, 2021
+Week: 15 November, 2021 - 21 November, 2021
 
 JavaScript   16 hrs 45 mins  ████████████████████████▒   97.00 % 
 JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
