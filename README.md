@@ -77,13 +77,12 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2021 - 21 December, 2021
+Week: 16 December, 2021 - 22 December, 2021
 
-JavaScript   10 hrs          ██████████████████▒░░░░░░   73.32 % 
-Text         1 hr 55 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-JSON         1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Groovy       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+JavaScript   7 hrs 37 mins   ██████████████████████▓░░   91.29 % 
+JSON         32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
