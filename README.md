@@ -77,11 +77,9 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
-JavaScript   1 hr 26 mins    ██████████████████████░░░   88.39 % 
-Other        9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JavaScript   6 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
