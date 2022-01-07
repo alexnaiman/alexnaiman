@@ -77,7 +77,9 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 31 December, 2021 - 06 January, 2022
+
+JavaScript   50 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
