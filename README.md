@@ -77,13 +77,13 @@ continuously learning, wanting to help the community
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 01 February, 2022
+Week: 27 January, 2022 - 02 February, 2022
 
-JavaScript   15 hrs 24 mins  █████████████████▓░░░░░░░   70.19 % 
-Other        3 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Groovy       1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-JSON         1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Java         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+JavaScript   9 hrs 22 mins   ███████████████░░░░░░░░░░   60.56 % 
+Other        3 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Groovy       1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+JSON         52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Java         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
 
