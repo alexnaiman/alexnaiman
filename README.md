@@ -78,14 +78,14 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 March 2022 - To: 15 March 2022
+From: 10 March 2022 - To: 17 March 2022
 
-JavaScript   1 hr 59 mins    ████████████░░░░░░░░░░░░░   47.79 %
-TypeScript   1 hr 10 mins    ███████░░░░░░░░░░░░░░░░░░   28.09 %
-JSON         33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-XML          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-Java         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Groovy       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+TypeScript   4 hrs 4 mins    ████████████▒░░░░░░░░░░░░   48.83 %
+JavaScript   2 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   31.40 %
+Groovy       33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+JSON         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+XML          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Java         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 ```
 
 <!--END_SECTION:waka-->
