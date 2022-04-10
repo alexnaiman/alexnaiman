@@ -78,7 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2022 - To: 08 April 2022
+From: 02 April 2022 - To: 09 April 2022
 
 JavaScript    8 hrs 57 mins   ██████████████████▓░░░░░░   74.95 %
 Groovy        1 hr 42 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
