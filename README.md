@@ -78,13 +78,13 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2022 - To: 12 April 2022
+From: 06 April 2022 - To: 13 April 2022
 
-JavaScript   7 hrs 33 mins   ███████████████████████░░   91.58 %
-Groovy       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   10 hrs 41 mins  ████████████████████████▒   97.74 %
+JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
