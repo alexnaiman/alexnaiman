@@ -78,7 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 June 2022 - To: 10 June 2022
+From: 04 June 2022 - To: 11 June 2022
 
 JavaScript   4 hrs 37 mins   ███████████████████████▓░   95.10 %
 Groovy       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
