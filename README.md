@@ -78,12 +78,14 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 July 2022 - To: 18 July 2022
+From: 12 July 2022 - To: 19 July 2022
 
-TypeScript   4 hrs 24 mins   ████████████████████████▒   97.83 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+TypeScript   1 hr 5 mins     ████████████▓░░░░░░░░░░░░   50.74 %
+JavaScript   40 mins         ████████░░░░░░░░░░░░░░░░░   31.64 %
+Groovy       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+JSON         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+XML          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Diff         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
