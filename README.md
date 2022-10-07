@@ -78,12 +78,13 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 05 October 2022
+From: 29 September 2022 - To: 06 October 2022
 
-JavaScript    3 hrs 43 mins   ██████████████▒░░░░░░░░░░   57.73 %
-Objective-C   59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-JSON          35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-Other         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+JavaScript    4 hrs 30 mins   ████████████████▓░░░░░░░░   66.08 %
+Objective-C   59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+JSON          35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Swift         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Other         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
