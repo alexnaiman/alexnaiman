@@ -78,7 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 October 2022 - To: 08 October 2022
+From: 02 October 2022 - To: 09 October 2022
 
 JavaScript   5 hrs 8 mins    ██████████████████▓░░░░░░   74.34 %
 JSON         49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
