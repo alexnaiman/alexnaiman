@@ -78,10 +78,10 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 November 2022 - To: 01 December 2022
+From: 25 November 2022 - To: 02 December 2022
 
-JavaScript    2 hrs 53 mins   ████████████████████████▓   98.02 %
-Other         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+JavaScript    1 hr 19 mins    ████████████████████████░   95.87 %
+Other         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
