@@ -78,14 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 22 December 2022
-
-JavaScript   23 mins         ██████████████▓░░░░░░░░░░   58.58 %
-Java         7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
-Bash         5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Groovy       4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
