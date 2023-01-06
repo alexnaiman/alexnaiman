@@ -78,7 +78,11 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 29 December 2022 - To: 05 January 2023
+
+JavaScript   1 hr 30 mins    ███████████████████░░░░░░   76.43 %
+Java         22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
+Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 ```
 
 <!--END_SECTION:waka-->
