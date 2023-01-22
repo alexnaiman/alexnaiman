@@ -78,7 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 January 2023 - To: 20 January 2023
+From: 14 January 2023 - To: 21 January 2023
 
 JavaScript   7 hrs 21 mins   ███████████████████▒░░░░░   77.24 %
 TypeScript   55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
