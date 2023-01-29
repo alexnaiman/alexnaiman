@@ -78,10 +78,14 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 January 2023 - To: 26 January 2023
+From: 21 January 2023 - To: 28 January 2023
 
-JavaScript    4 hrs 50 mins   ███████████████▓░░░░░░░░░   62.95 %
-Other         41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+JavaScript    4 hrs 50 mins   █████████████████▓░░░░░░░   70.11 %
+JSON          47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+XML           25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Bash          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Properties    12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Groovy        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
