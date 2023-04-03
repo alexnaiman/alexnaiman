@@ -78,7 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2023 - To: 01 April 2023
+From: 26 March 2023 - To: 02 April 2023
 
 JavaScript   6 hrs 56 mins   ████████████████████████▒   96.80 %
 Java         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
