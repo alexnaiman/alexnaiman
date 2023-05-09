@@ -78,11 +78,13 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2023 - To: 07 May 2023
+From: 01 May 2023 - To: 08 May 2023
 
-JavaScript   8 hrs 1 min     █████████████████████████   99.37 %
-Java         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-CocoaPods    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   10 hrs 25 mins  ██████████████████████░░░   88.30 %
+Groovy       46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+CocoaPods    24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Kotlin       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Java         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
