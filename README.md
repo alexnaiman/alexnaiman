@@ -78,13 +78,13 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 May 2023 - To: 25 May 2023
+From: 19 May 2023 - To: 26 May 2023
 
-JavaScript   7 hrs 25 mins   ███████████████████████▒░   93.72 %
-SSH Config   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+JavaScript   5 hrs 35 mins   ██████████████████████▓░░   90.04 %
+SSH Config   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
