@@ -78,7 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
 JavaScript   2 hrs 48 mins   ███████████████████████▒░   93.45 %
 JSON         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
