@@ -78,10 +78,10 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2023 - To: 01 August 2023
+From: 26 July 2023 - To: 02 August 2023
 
-JavaScript   5 hrs 59 mins   █████████████████████████   99.95 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   4 hrs 26 mins   ████████████████████████▒   97.67 %
+JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
