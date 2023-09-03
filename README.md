@@ -78,7 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2023 - To: 01 September 2023
+From: 26 August 2023 - To: 02 September 2023
 
 JavaScript       1 hr 34 mins    █████████▓░░░░░░░░░░░░░░░   38.57 %
 Assembly         46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
