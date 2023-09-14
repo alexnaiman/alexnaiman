@@ -78,13 +78,13 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2023 - To: 12 September 2023
+From: 06 September 2023 - To: 13 September 2023
 
-Groovy            3 hrs 4 mins    ███████████░░░░░░░░░░░░░░   44.52 %
-JSON              2 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.38 %
-Java Properties   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-XML               20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Java              17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Groovy            3 hrs 23 mins   ███████████░░░░░░░░░░░░░░   44.09 %
+JSON              1 hr 56 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.21 %
+Java Properties   48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Diff              26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+JavaScript        26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
