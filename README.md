@@ -78,7 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2023 - To: 15 September 2023
+From: 09 September 2023 - To: 16 September 2023
 
 Groovy            3 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   28.10 %
 JSON              3 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
