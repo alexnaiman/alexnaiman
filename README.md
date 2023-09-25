@@ -78,7 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
 Assembly          3 hrs 36 mins   ██████████▒░░░░░░░░░░░░░░   41.54 %
 JavaScript        3 hrs           ████████▓░░░░░░░░░░░░░░░░   34.68 %
