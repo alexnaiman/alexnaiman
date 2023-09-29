@@ -78,13 +78,13 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2023 - To: 27 September 2023
+From: 21 September 2023 - To: 28 September 2023
 
-JavaScript        7 hrs 41 mins   █████████████████▓░░░░░░░   71.01 %
-Assembly          1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-JSON              54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Bash              41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-Objective-C++     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+JavaScript        7 hrs 37 mins   ██████████████████▒░░░░░░   73.62 %
+JSON              55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Bash              41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Assembly          28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+XML               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
