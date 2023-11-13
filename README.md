@@ -78,7 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 10 November 2023
+From: 04 November 2023 - To: 11 November 2023
 
 JavaScript   5 hrs           ███████████████▒░░░░░░░░░   61.57 %
 JSON         1 hr 29 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
