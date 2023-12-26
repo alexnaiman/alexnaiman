@@ -78,7 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
 JavaScript   8 hrs 2 mins    ███████████████████████▓░   95.29 %
 Groovy       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
