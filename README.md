@@ -78,11 +78,11 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 17 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
-JavaScript   8 hrs 42 mins   ████████████████████████░   95.44 %
-Groovy       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Java         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JavaScript   8 hrs 16 mins   ███████████████████████▓░   95.21 %
+Groovy       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Java         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
