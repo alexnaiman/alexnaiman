@@ -78,13 +78,13 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2024 - To: 25 January 2024
+From: 19 January 2024 - To: 26 January 2024
 
-JavaScript   4 hrs 6 mins    █████████████████▓░░░░░░░   70.34 %
-TypeScript   37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-JSON         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-XML          30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JavaScript   4 hrs 33 mins   ████████████████░░░░░░░░░   63.95 %
+Groovy       48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+TypeScript   37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+JSON         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+XML          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
 ```
 
 <!--END_SECTION:waka-->
