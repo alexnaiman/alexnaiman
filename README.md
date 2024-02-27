@@ -78,7 +78,7 @@ continuously learning, wanting to help the community
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 February 2024 - To: 24 February 2024
+From: 18 February 2024 - To: 25 February 2024
 
 JavaScript   2 hrs 1 min     ████████████████████░░░░░   80.30 %
 Java         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
